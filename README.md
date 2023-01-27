@@ -2,4 +2,4 @@
 Old webdesign agency website.
 
 
-Please click on index.html to visit the home page.
+Please dowload the whole folder and click on the index.html file to visit the homepage.
